@@ -1,0 +1,98 @@
+{
+    "ponds": [
+        {
+            "name": "Pristine Lagoon",
+            "center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "radius": 2
+        },
+        {
+            "name": "Wondering Depths",
+            "center": {
+                "x": 2,
+                "y": 5,
+                "z": 0
+            },
+            "radius": 10
+        },
+        {
+            "name": "Wasteful Domain",
+            "center": {
+                "x": -2,
+                "y": 2,
+                "z": -1
+            },
+            "radius": 6.7
+        },
+        {
+            "name": "Nipamis Cover",
+            "center": {
+                "x": 1.5,
+                "y": -1.5,
+                "z": 100
+            },
+            "radius": 4.5
+        }
+    ],
+    "ducks": [
+        {
+            "name": "Fenton Crackshell",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "name": "Turducken",
+            "position": {
+                "x": 2,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "name": "Ducktape",
+            "position": {
+                "x": 4.63,
+                "y": 6.78,
+                "z": 9.59
+            }
+        },
+        {
+            "name": "Hunter",
+            "position": {
+                "x": -0.72,
+                "y": 8.85,
+                "z": 3.50
+            }
+        },
+        {
+            "name": "Rupert",
+            "position": {
+                "x": -3.56,
+                "y": -2.19,
+                "z": 9.25
+            }
+        },
+        {
+            "name": "Captain ISS",
+            "position": {
+                "x": -1.97,
+                "y": 5.92,
+                "z": 1000000000000000
+            }
+        },
+        {
+            "name": "Daffy",
+            "position": {
+                "x": -1.75,
+                "y": 3.61,
+                "z": 9.69
+            }
+        }
+    ]
+}
